@@ -86,7 +86,7 @@ CreateThread(function()
                 label = "Dismantle Grill",
             },
             {
-                event = 'grilling:client:AccessGrill',
+                event = 'qb-simplefarming:menufcow',
                 type = 'client',
                 icon = "fa-solid fa-grill",
                 label = "Open Menu",
